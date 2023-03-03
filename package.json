@@ -9,7 +9,7 @@
   "author": "William Wong <compulim@hotmail.com> (http://compulim.info/)",
   "license": "MIT",
   "dependencies": {
-    "cldr-data": "^36.0.0",
+    "cldr-data": "^36.0.1",
     "globalize": "1.4.2",
     "globalize-compiler": "^1.1.1"
   }
